@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Eat the burrito*
+**It will make your dreams come true**
+_**Refrigerator**:heart:_
